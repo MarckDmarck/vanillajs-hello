@@ -6,9 +6,9 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
-  let pronombre = ["El", "Nuestro"];
-  let adjetivo = ["grandioso", "grande"];
-  let sustantivo = ["corredor", "ardilla"];
+  let pronombre = ["the", "our"];
+  let adjetivo = ["great", "big"];
+  let sustantivo = ["fishman", "dog"];
 
   for (let p = 0; p < pronombre.length; p++) {
     for (let a = 0; a < adjetivo.length; a++) {
